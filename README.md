@@ -1,4 +1,4 @@
-# mighty_news
+# berita
 
 A new Flutter application.
 
